@@ -1,7 +1,2 @@
-# Alex-s-Simple-Lag-Switch
-# a very simple lagswitch u can toggle with buttons (it doesnt have keybinds but u can edit it i guess)
-# dont worry roblox cant patch this as far as i think lol
-# props to some guy on stack overflow for being very helpful
-# i used this to troll fatherless slenders lol
-# u may post bug reports in the issues thingy
-# go to https://alexplayrus1.github.io/Alex-s-Simple-Lag-Switch/ for the usage
+## Reworked version of the original lag switch made by Alex, I just made a few changes to the GUI
+### go to https://alexplayrus1.github.io/Alex-s-Simple-Lag-Switch/ for the usage
